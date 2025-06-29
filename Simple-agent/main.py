@@ -2,4 +2,4 @@ def main():
     print("Hello from simple-agent!")
 
 
-if __name__ == "__ma
+if __name__ == "
