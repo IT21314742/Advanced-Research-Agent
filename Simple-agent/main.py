@@ -1,2 +1,2 @@
 def main():
-    print("Hello from simple-
+    print("Hello from sim
