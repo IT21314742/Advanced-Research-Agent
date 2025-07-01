@@ -1,2 +1,2 @@
 from mcp import ClientSession, StdioServerParameters
-from mcp.client.stdio 
+from mcp.client.stdio import stdio.client
