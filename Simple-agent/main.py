@@ -7,3 +7,4 @@ from dotenv import load_dotenv
 import _asyncio
 import os
 
+load_dotenv()
