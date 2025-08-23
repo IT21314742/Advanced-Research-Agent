@@ -23,7 +23,9 @@ server_params = StdioServerParameters(
     args=["firecrawl-mcp"]
 )
 
-
+async def main():
+    async with stdio_client(server_params) as (read, write):
+        
 
 
 
