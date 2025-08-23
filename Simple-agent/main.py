@@ -16,7 +16,10 @@ model = ChatOpenAI(
 )
 
 server_params = StdioServerParameters(
-    
+    command="npx",
+    env={
+        "FIRECRAWL_API_KEY": os.getenv("FIRECRAWL_API_KEY"),
+    }
 )
 
 
