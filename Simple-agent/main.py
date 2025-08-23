@@ -9,7 +9,9 @@ import os
 
 load_dotenv()
 
-
+model = ChatOpenAI(
+    
+)
 
 
 
