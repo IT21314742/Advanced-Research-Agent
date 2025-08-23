@@ -38,7 +38,7 @@ async def main():
                 }
             ]
             
-            
+            print("Available tools-", *[tool.name for tool in tools])
 
 
 
