@@ -54,7 +54,8 @@ async def main():
                     
                     ai_message = agent_response["messages"][-1].content
                     print("agent:", ai_message)
-                
+                except Exception as e:
+                    print("Error:", e)
                 
 
 
