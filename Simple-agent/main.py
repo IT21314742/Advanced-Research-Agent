@@ -46,6 +46,9 @@ async def main():
                 if user_input == "quit":
                     print("Goodbye")
                     break
+                
+                messages.append({})
+                
 
 
 
