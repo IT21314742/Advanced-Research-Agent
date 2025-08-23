@@ -15,6 +15,9 @@ model = ChatOpenAI(
     openai_api_key=os.getenv("OPENAI_API_KEY")
 )
 
+server_params = StdioServerParameters(
+    
+)
 
 
 
