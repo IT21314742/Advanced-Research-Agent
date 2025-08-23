@@ -41,7 +41,10 @@ async def main():
             print("Available tools-", *[tool.name for tool in tools])
             print("-" * 60)
             
-            
+            while True:
+                user_input = input("\nYou: ")
+                if user_input == "quit":
+                    print("Goodbye")
 
 
 
