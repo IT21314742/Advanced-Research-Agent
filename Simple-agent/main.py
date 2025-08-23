@@ -10,6 +10,8 @@ import os
 load_dotenv()
 
 model = ChatOpenAI(
+    model="gpt-4.1",
+    temperature=0,
     
 )
 
