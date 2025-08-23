@@ -1,3 +1,4 @@
+import asyncio
 from mcp import ClientSession, StdioServerParameters
 from mcp.client.stdio import stdio_client
 from langchain_mcp_adapters.tools import load_mcp_tools
@@ -58,7 +59,7 @@ async def main():
                     print("Error:", e)
                     
 if __name__ == "__main__":
-    _asyncio.run(main())
+    asyncio.run(main())
                 
 
 
