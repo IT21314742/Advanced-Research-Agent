@@ -37,6 +37,8 @@ async def main():
                     "content" : "You are a helpful assistant that can srape websites, crawl pages, and extract data using firecrawl tools. Think step by step and and use the appropriate tools to help the user"
                 }
             ]
+            
+            
 
 
 
