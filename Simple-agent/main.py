@@ -49,6 +49,10 @@ async def main():
                 
                 messages.append({"role": "user", "content": user_input[:175000]})
                 
+                try:
+                    agent_response = await agent.ainvoke({"messages": messages})
+                    
+                    
                 
 
 
