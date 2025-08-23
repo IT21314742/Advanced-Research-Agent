@@ -33,7 +33,8 @@ async def main():
             
             messages = [
                 {
-                    ""
+                    "role": "system",
+                    
                 }
             ]
 
