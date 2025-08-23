@@ -27,6 +27,8 @@ async def main():
     async with stdio_client(server_params) as (read, write):
         async with ClientSession(read, write) as session:
             await session.initialize()
+            tools = await load_mcp_tools(session)
+            
 
 
 
