@@ -11,7 +11,7 @@ import os
 load_dotenv()
 
 model = ChatOpenAI(
-    model="gpt-4.1",
+    model="gpt-4o-mini",
     temperature=0,
     openai_api_key=os.getenv("OPENAI_API_KEY")
 )
