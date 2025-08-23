@@ -28,7 +28,7 @@ async def main():
         async with ClientSession(read, write) as session:
             await session.initialize()
             tools = await load_mcp_tools(session)
-            
+            agent = create_react_agent(model, tools)
 
 
 
