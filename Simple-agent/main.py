@@ -47,7 +47,8 @@ async def main():
                     print("Goodbye")
                     break
                 
-                messages.append({})
+                messages.append({"role": "user", "content": user_input[:175000]})
+                
                 
 
 
