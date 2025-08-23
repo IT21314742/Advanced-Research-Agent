@@ -45,6 +45,7 @@ async def main():
                 user_input = input("\nYou: ")
                 if user_input == "quit":
                     print("Goodbye")
+                    break
 
 
 
