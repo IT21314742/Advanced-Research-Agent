@@ -1,2 +1,2 @@
 def main():
-    print("Hello from advanced-agent!
+    print("Hello from advanced-agen
