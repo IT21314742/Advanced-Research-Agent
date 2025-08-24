@@ -2,4 +2,4 @@ def main():
     print("Hello from advanced-agent!")
 
 
-if __name_
+if __nam
