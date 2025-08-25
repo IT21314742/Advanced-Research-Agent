@@ -24,3 +24,5 @@ class CompanyInfo(BaseModel):
     api_available: Optional[bool] = None
     language_support: List[str] = []
     intergration_capabilities: List[str] = []
+    developer_experience_rating: Optional[str] = None # Poor, Good, Excellent
+    
