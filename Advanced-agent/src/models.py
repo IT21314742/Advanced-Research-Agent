@@ -17,4 +17,5 @@ class CompanyInfo(BaseModel):
     description: str
     website: str
     pricing_model:Optional[str] = None
+    is_open_source: Optional[bool] = None
     
