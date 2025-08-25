@@ -16,3 +16,5 @@ class CompanyInfo(BaseModel):
     name: str
     description: str
     website: str
+    pricing_model:Optional[str] = None
+    
