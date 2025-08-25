@@ -12,4 +12,4 @@ class CompanyAnalysis(BaseModel):
     intergration_capabilities: List[str] = []
     
     
-    
+class CompanyInfo(BaseModel):
