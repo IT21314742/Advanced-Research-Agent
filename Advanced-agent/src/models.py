@@ -10,3 +10,6 @@ class CompanyAnalysis(BaseModel):
     api_available: Optional[bool] = None
     language_support: List[str] = []
     intergration_capabilities: List[str] = []
+    
+    
+    
