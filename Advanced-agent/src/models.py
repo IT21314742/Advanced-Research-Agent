@@ -22,4 +22,5 @@ class CompanyInfo(BaseModel):
     competitors: List[str] = []
     #Developer-specific fields
     api_available: Optional[bool] = None
+    language_support: List[str] = []
     
