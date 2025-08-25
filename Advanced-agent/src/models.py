@@ -21,4 +21,5 @@ class CompanyInfo(BaseModel):
     tech_stack: List[str] = []
     competitors: List[str] = []
     #Developer-specific fields
+    api_available: Optional[bool] = None
     
