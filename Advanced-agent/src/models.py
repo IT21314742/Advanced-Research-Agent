@@ -30,4 +30,4 @@ class CompanyInfo(BaseModel):
     
 class ResearchState(BaseModel):
     query: str
-    
+    extracted_tools:
