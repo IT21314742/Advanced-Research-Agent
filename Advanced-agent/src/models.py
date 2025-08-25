@@ -8,4 +8,5 @@ class CompanyAnalysis(BaseModel):
     tech_stack: List[str] = []
     description: str=""
     api_available: Optional[bool] = None
+    language_support: List[str] = []
     
