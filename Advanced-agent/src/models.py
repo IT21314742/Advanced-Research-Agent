@@ -35,3 +35,4 @@ class ResearchState(BaseModel):
     search_results: list[dict[str, Any]] = []
     analysis: Optional[str] = None
     
+    
