@@ -34,3 +34,5 @@ class ResearchState(BaseModel):
     companies: list[CompanyInfo] = []
     search_results: list[dict[str, Any]] = []
     analysis: Optional[str] = None
+    
+    
