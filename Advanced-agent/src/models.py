@@ -23,4 +23,4 @@ class CompanyInfo(BaseModel):
     #Developer-specific fields
     api_available: Optional[bool] = None
     language_support: List[str] = []
-    
+    intergration_capabilities: List[str] = []
