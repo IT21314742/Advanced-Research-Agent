@@ -27,3 +27,4 @@ class CompanyInfo(BaseModel):
     developer_experience_rating: Optional[str] = None # Poor, Good, Excellent
     
     
+    
