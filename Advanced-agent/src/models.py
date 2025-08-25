@@ -28,4 +28,4 @@ class CompanyInfo(BaseModel):
     
     
     
-    
+class ResearchState(BaseModel):
