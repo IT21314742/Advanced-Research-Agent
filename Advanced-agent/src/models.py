@@ -32,3 +32,4 @@ class ResearchState(BaseModel):
     query: str
     extracted_tools: List[str] = [] # Tools Extracted from articles
     companies: list[CompanyInfo] = []
+    
