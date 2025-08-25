@@ -19,4 +19,5 @@ class CompanyInfo(BaseModel):
     pricing_model:Optional[str] = None
     is_open_source: Optional[bool] = None
     tech_stack: List[str] = []
+    competitors: List[str] = []
     
