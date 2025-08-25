@@ -14,3 +14,4 @@ class CompanyAnalysis(BaseModel):
     
 class CompanyInfo(BaseModel):
     name: str
+    description: str
