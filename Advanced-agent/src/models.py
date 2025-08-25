@@ -26,3 +26,4 @@ class CompanyInfo(BaseModel):
     intergration_capabilities: List[str] = []
     developer_experience_rating: Optional[str] = None # Poor, Good, Excellent
     
+    
