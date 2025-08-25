@@ -7,4 +7,5 @@ class CompanyAnalysis(BaseModel):
     is_open_source: Optional[bool] = None
     tech_stack: List[str] = []
     description: str=""
+    api_available: Optional[bool] = None
     
