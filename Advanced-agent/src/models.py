@@ -20,4 +20,5 @@ class CompanyInfo(BaseModel):
     is_open_source: Optional[bool] = None
     tech_stack: List[str] = []
     competitors: List[str] = []
+    #Developer-specific fields
     
