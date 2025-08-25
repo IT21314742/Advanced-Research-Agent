@@ -6,4 +6,5 @@ class CompanyAnalysis(BaseModel):
     pricing_model: str #Free, Premium, Paid, Enterprise, Unknown
     is_open_source: Optional[bool] = None
     tech_stack: List[str] = []
+    description: str=""
     
