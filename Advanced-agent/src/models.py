@@ -9,4 +9,4 @@ class CompanyAnalysis(BaseModel):
     description: str=""
     api_available: Optional[bool] = None
     language_support: List[str] = []
-    
+    intergration_capabilities: List[str] = []
