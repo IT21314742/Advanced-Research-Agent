@@ -36,5 +36,5 @@ class ResearchState(BaseModel):
     analysis: Optional[str] = None
     
 
-                                                
+                                            
     
