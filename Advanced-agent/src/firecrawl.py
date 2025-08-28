@@ -19,5 +19,8 @@ class FirecrawlService:
             result = self.app.search(
                 query=f"{query} company pricing",
                 limit=num_results,
-                scrape_options=V1ScrapeOptions
+                scrape_options=V1ScrapeOptions(
+                    formats=["markdown"]
+                )
             )
+            
