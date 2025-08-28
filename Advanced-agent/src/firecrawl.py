@@ -38,4 +38,4 @@ class FirecrawlService:
             return result
         except Exception as e:
             print(e)
-            return
+            return None
