@@ -17,5 +17,5 @@ class FirecrawlService:
     def search_companies(self, query: str,num_results: int = 5):
         try:
             result = self.app.search(
-                
+                query=f"{query} company pricing"
             )
