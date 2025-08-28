@@ -15,4 +15,5 @@ class FirecrawlService:
         
         
     def search_companies(self, query: str,num_results: int = 5):
-        try
+        try:
+            
