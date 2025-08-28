@@ -11,3 +11,4 @@ class FirecrawlService:
         api_key = os.getenv("FIRECRAWL_API_KEY")
         if not api_key:
             raise ValueError("Missing FIRECRAWL_API_KEY enviroment variable")
+        self
