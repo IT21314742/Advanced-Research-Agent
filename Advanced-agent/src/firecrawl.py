@@ -29,4 +29,4 @@ class FirecrawlService:
             return[]
         
         
-    
+    def scrape_company_pages(self, url: str):
