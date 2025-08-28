@@ -7,4 +7,5 @@ load_dotenv()
 
 
 class FirecrawlService:
-    
+    def __init__(self):
+        
