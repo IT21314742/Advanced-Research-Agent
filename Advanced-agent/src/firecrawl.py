@@ -23,4 +23,5 @@ class FirecrawlService:
                     formats=["markdown"]
                 )
             )
-            return
+            return result
+        except Exception as e:
