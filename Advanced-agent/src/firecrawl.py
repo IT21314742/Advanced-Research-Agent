@@ -1,2 +1,2 @@
 import os
-from firecrawl import FirecrawlApp
+from firecrawl import FirecrawlApp, V1ScrapeOptions
