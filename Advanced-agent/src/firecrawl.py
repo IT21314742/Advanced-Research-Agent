@@ -23,4 +23,4 @@ class FirecrawlService:
                     formats=["markdown"]
                 )
             )
-            
+            return
