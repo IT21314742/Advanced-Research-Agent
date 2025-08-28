@@ -12,3 +12,4 @@ class FirecrawlService:
         if not api_key:
             raise ValueError("Missing FIRECRAWL_API_KEY enviroment variable")
         self.app = FirecrawlApp(api_key=api_key)
+        
