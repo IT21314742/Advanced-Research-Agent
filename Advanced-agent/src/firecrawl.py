@@ -35,3 +35,4 @@ class FirecrawlService:
                 url,
                 formats=["markdown"]
             )
+            return 
