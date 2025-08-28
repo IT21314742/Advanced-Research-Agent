@@ -32,5 +32,6 @@ class FirecrawlService:
     def scrape_company_pages(self, url: str):
         try:
             result = self.app.scrape_url(
-                
+                url,
+                formats=["markdown"]
             )
