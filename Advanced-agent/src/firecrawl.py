@@ -31,4 +31,4 @@ class FirecrawlService:
         
     def scrape_company_pages(self, url: str):
         try:
-            result = 
+            result = self.app.scrape_url()
