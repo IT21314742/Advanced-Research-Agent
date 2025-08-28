@@ -14,4 +14,5 @@ class FirecrawlService:
         self.app = FirecrawlApp(api_key=api_key)
         
         
-    def search_companies(self, query: num_results: )
+    def search_companies(self, query: str,num_results: int = 5):
+        try
