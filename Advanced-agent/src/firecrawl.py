@@ -9,4 +9,5 @@ load_dotenv()
 class FirecrawlService:
     def __init__(self):
         api_key = os.getenv("FIRECRAWL_API_KEY")
-        if not api_key
+        if not api_key:
+            
