@@ -7,3 +7,4 @@ from .firecrawl import FirecrawlService
 from .prompts import DeveloperToolsPrompts
 
 
+class Workflow:
