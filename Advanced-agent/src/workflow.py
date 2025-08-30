@@ -11,4 +11,4 @@ class Workflow:
     def __init__(self):
         self.firecrawl = FirecrawlService()
         self.llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.1)
-        self.prompts = 
+        self.prompts = DeveloperToolsPrompts()
