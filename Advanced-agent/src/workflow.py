@@ -9,4 +9,5 @@ from .prompts import DeveloperToolsPrompts
 
 class Workflow:
     def __init__(self):
-        self.firecrawl
+        self.firecrawl = FirecrawlService()
+        
