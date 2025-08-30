@@ -9,4 +9,4 @@ from .prompts import DeveloperToolsPrompts
 
 class Workflow:
     def __init__(self):
-        self
+        self.firecrawl
