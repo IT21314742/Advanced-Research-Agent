@@ -37,4 +37,5 @@ class Workflow:
         all_content = ""
         for result in search_results.data:
             url = result.get("url", "")
+            scraped = self.firecrawl.scrape_company_pages(url)
             
