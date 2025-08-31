@@ -31,4 +31,4 @@ class Workflow:
         
         
         
-        
+        article_query = f"{state.query} tools comparison best alternatives"
