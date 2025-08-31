@@ -33,3 +33,4 @@ class Workflow:
         
         article_query = f"{state.query} tools comparison best alternatives"
         search_results = self.firecrawl.search_companies(article_query, num_results=3)
+        
