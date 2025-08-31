@@ -26,4 +26,4 @@ class Workflow:
         graph.add_edge("analyze". END)
         return graph.compile()
     
-    def _extract_tools_step()
+    def _extract_tools_step(self, state: ResearchState) -> Dict
