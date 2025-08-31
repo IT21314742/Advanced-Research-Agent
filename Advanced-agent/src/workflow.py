@@ -43,5 +43,5 @@ class Workflow:
                 
                 
         messages = [
-            
+            SystemMessage(content=self)
         ]
