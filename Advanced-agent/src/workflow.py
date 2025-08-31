@@ -58,4 +58,5 @@ class Workflow:
             return {"extracted_tools": tool_names}
         except Exception as e:
             print(e)
-            
+            return {"extracted_tools": []}
+        
