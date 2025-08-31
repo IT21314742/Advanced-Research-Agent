@@ -50,5 +50,6 @@ class Workflow:
         try:
             response = self.llm.invoke(messages)
             tool_names = [
-                
+                name.strip()
+                for name in response.content.strip()
             ]
