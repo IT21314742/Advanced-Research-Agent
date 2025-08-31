@@ -52,5 +52,5 @@ class Workflow:
             tool_names = [
                 name.strip()
                 for name in response.content.strip().split("\n")
-                
+                if name.strip()
             ]
