@@ -16,4 +16,5 @@ class Workflow:
         
         
     def _build_workflow:
+        graph = StateGraph(ResearchState)
         
