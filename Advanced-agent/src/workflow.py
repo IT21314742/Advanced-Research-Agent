@@ -17,4 +17,4 @@ class Workflow:
         
     def _build_workflow(self):
         graph = StateGraph(ResearchState)
-        graph.add_node
+        graph.add_node("extract_tools")
