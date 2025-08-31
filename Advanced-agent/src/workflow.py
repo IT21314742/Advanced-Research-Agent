@@ -43,6 +43,6 @@ class Workflow:
                 
                 
         messages = [
-            SystemMessage(content=self.prompts.TOOL_EXTRACTION_SYSTEM)
-            
+            SystemMessage(content=self.prompts.TOOL_EXTRACTION_SYSTEM),
+            HumanMessage()
         ]
