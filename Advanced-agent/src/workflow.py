@@ -35,3 +35,5 @@ class Workflow:
         search_results = self.firecrawl.search_companies(article_query, num_results=3)
         
         all_content = ""
+        for result in search_results.data:
+            
