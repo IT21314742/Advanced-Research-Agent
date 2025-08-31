@@ -55,4 +55,5 @@ class Workflow:
                 if name.strip()
             ]
             print(f"Extracted tools: {','.join(tool_names[:5])}")
-            
+            return {"extracted_tools": tool_names}
+        
