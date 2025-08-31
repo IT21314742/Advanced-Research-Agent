@@ -41,3 +41,4 @@ class Workflow:
             if scraped:
                 all_content + scraped.markdown[:1500] + "\n\n"
                 
+                
