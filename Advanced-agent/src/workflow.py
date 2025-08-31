@@ -54,3 +54,4 @@ class Workflow:
                 for name in response.content.strip().split("\n")
                 if name.strip()
             ]
+            print(f"Extracted tools: ")
