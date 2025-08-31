@@ -20,4 +20,4 @@ class Workflow:
         graph.add_node("extract_tools", self._extract_tools_step)
         graph.add_node("research", self._research_step)
         graph.add_node("analyze", self._analyze_step)
-        
+        graph.set_entry_point("extract_tools")
