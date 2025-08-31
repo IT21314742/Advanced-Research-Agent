@@ -54,4 +54,5 @@ class Workflow:
                 for name in response.content.strip().split("\n")
                 if name.strip()
             ]
-            print(f"Extracted tools: {','.join()}")
+            print(f"Extracted tools: {','.join(tool_names[:5])}")
+            
