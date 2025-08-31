@@ -25,3 +25,5 @@ class Workflow:
         graph.add_edge("research", "analyze")
         graph.add_edge("analyze". END)
         return graph.compile()
+    
+    
