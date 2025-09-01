@@ -65,4 +65,6 @@ class Workflow:
     def _analyze_company_content(self, company_name: str, content:str) -> CompanyAnalysis:
         structured_llm = self.llm.with_structured_output(CompanyAnalysis)
         
-        
+        messages = [
+            
+        ]
