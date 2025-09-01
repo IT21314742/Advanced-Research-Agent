@@ -73,4 +73,4 @@ class Workflow:
         try:
             analysis = structured_llm.invoke(messages)
             return analysis
-        
+        except Exception as e:
