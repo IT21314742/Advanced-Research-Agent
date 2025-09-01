@@ -100,4 +100,4 @@ class Workflow:
         else:
             tool_names = extracted_tools[:4]
             
-        print(f"")
+        print(f"🔬 researching specific tools: ")
