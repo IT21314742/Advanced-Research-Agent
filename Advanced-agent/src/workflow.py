@@ -97,4 +97,5 @@ class Workflow:
                 results.get("metadata", {}).get("title", "Unknown")
                 for results in search_results.data
             ]
-        
+        else:
+            
