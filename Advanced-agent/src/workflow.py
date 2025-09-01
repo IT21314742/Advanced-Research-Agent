@@ -95,4 +95,5 @@ class Workflow:
             search_results = self.firecrawl.search_companies(state.query, num_results=4)
             tool_names = [
                 results.get("metadata", {}).get("title", "Unknown")
+                for results in search_results.data
             ]
