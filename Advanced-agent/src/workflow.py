@@ -86,4 +86,5 @@ class Workflow:
             )
             
             
-    def _research_step(self, state: ResearchState)
+    def _research_step(self, state: ResearchState) -> Dict[str, Any]:
+        
