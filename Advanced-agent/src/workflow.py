@@ -67,5 +67,5 @@ class Workflow:
         
         messages = [
             SystemMessage(content=self.prompts.TOOL_ANALYSYS_SYSTEM),
-            
+            HumanMessage()
         ]
