@@ -80,5 +80,6 @@ class Workflow:
                 is_open_source=None,
                 tech_stack=[],
                 description="Failed",
+                api_available=None,
                 
             )
