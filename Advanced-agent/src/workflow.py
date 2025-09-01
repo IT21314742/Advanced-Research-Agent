@@ -91,4 +91,4 @@ class Workflow:
         
         
         if not extracted_tools:
-            
+            print(" No extracted tools found, falling back to direct search")
