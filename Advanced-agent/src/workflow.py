@@ -83,5 +83,4 @@ class Workflow:
                 api_available=None,
                 language_support=[],
                 intergration_capabilities=[],
-                
             )
