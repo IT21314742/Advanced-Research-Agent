@@ -93,4 +93,4 @@ class Workflow:
         if not extracted_tools:
             print("⚠️ No extracted tools found, falling back to direct search")
             search_results = self.firecrawl.search_companies(state.query, num_results=4)
-            
+            tool_names = 
