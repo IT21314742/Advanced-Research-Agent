@@ -75,4 +75,6 @@ class Workflow:
             return analysis
         except Exception as e:
             print(e)
-            
+            return CompanyAnalysis(
+                
+            )
