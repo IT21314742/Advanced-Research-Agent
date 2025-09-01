@@ -69,3 +69,4 @@ class Workflow:
             SystemMessage(content=self.prompts.TOOL_ANALYSYS_SYSTEM),
             HumanMessage(content=self.prompts.tool_analysis_user(company_name, content))
         ]
+        
