@@ -73,3 +73,4 @@ class Workflow:
         try:
             analysis = structured_llm.invoke(messages)
             return analysis
+        
