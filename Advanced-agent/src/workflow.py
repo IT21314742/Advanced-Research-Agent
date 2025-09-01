@@ -70,3 +70,4 @@ class Workflow:
             HumanMessage(content=self.prompts.tool_analysis_user(company_name, content))
         ]
         
+        
