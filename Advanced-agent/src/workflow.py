@@ -82,5 +82,6 @@ class Workflow:
                 description="Failed",
                 api_available=None,
                 language_support=[],
+                intergration_capabilities=[],
                 
             )
