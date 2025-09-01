@@ -66,5 +66,5 @@ class Workflow:
         structured_llm = self.llm.with_structured_output(CompanyAnalysis)
         
         messages = [
-            SystemMessage()
+            SystemMessage(content=self)
         ]
