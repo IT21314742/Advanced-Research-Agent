@@ -90,4 +90,5 @@ class Workflow:
         extracted_tools = getattr(state, "extracted_tools", [])
         
         
-        
+        if not extracted_tools:
+            
