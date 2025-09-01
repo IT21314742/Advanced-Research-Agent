@@ -62,4 +62,4 @@ class Workflow:
         
         
         
-    def
+    def _analyze_company_content()
