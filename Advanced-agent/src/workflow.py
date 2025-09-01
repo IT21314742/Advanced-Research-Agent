@@ -71,4 +71,4 @@ class Workflow:
         ]
         
         try:
-            analysis = 
+            analysis = structured_llm.invoke
