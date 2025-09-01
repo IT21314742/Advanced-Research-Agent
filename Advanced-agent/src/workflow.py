@@ -76,5 +76,8 @@ class Workflow:
         except Exception as e:
             print(e)
             return CompanyAnalysis(
+                pricing_model="Unknown",
+                is_open_source=None,
+                tech_stack=[],
                 
             )
