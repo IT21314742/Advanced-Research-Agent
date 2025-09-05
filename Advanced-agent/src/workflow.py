@@ -116,5 +116,5 @@ class Workflow:
                     description=result.get("markdown", ""),
                     website=url,
                     tech_stack=[],
-                    
+                    competitors=[]
                 )
