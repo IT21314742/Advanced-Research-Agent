@@ -125,4 +125,5 @@ class Workflow:
                     analysis = self._analyze_company_content(company.name, content)
                     
                     
-                    company.pricing_model = analysis
+                    company.pricing_model = analysis.pricing_model
+                    
