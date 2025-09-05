@@ -133,3 +133,4 @@ class Workflow:
                     company.intergration_capabilities = analysis.intergration_capabilities
                     
                 
+                
