@@ -126,4 +126,4 @@ class Workflow:
                     
                     
                     company.pricing_model = analysis.pricing_model
-                    
+                    company.is_open_source = 
