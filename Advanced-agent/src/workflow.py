@@ -129,4 +129,4 @@ class Workflow:
                     company.is_open_source = analysis.is_open_source
                     company.tech_stack = analysis.tech_stack
                     company.description = analysis.description
-                    
+                    company.api_available
