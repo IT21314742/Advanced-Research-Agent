@@ -130,4 +130,4 @@ class Workflow:
                     company.tech_stack = analysis.tech_stack
                     company.description = analysis.description
                     company.api_available = analysis.language_support
-                    company.intergration_capabilities = 
+                    company.intergration_capabilities = analysis.intergration_capabilities
