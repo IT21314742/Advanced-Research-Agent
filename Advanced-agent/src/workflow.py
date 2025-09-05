@@ -136,3 +136,4 @@ class Workflow:
                 companies.append(company)
                 
         return {"companies": companies}
+    
