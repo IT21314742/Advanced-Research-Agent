@@ -114,5 +114,6 @@ class Workflow:
                 company = CompanyInfo(
                     name=tool_name,
                     description=result.get("markdown", ""),
+                    website=url,
                     
                 )
