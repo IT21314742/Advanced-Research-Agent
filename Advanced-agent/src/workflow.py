@@ -121,3 +121,5 @@ class Workflow:
                 
                 scrapped = self.firecrawl.scrape_company_pages(url)
                 if scrapped:
+                    content = scrapped.markdown
+                    
