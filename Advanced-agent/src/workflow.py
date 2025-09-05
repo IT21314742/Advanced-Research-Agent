@@ -103,4 +103,5 @@ class Workflow:
         print(f"🔬 researching specific tools: {',' .join(tool_names)}")
         
         companies = []
-        
+        for tool_name in tool_names:
+            
