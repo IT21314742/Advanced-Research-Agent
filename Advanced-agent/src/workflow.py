@@ -124,3 +124,4 @@ class Workflow:
                     content = scrapped.markdown
                     analysis = self._analyze_company_content(company.name, content)
                     
+                    
