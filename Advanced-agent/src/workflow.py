@@ -111,4 +111,6 @@ class Workflow:
                 url = result.get("url", "")
                 
                 
-                company = CompanyInfo()
+                company = CompanyInfo(
+                    
+                )
