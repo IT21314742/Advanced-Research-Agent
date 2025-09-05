@@ -125,4 +125,4 @@ class Workflow:
                     analysis = self._analyze_company_content(company.name, content)
                     
                     
-                    
+                    company
