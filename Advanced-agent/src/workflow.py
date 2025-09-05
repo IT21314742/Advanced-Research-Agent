@@ -106,4 +106,6 @@ class Workflow:
         for tool_name in tool_names:
             tool_search_results = self.firecrawl.search_companies(tool_name + "official site", num_results=1)
             
-            
+            if tool_search_results:
+                result = tool_search_results.data[0]
+                
