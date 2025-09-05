@@ -122,4 +122,4 @@ class Workflow:
                 scrapped = self.firecrawl.scrape_company_pages(url)
                 if scrapped:
                     content = scrapped.markdown
-                    analysis = self._analyze_company_content
+                    analysis = self._analyze_company_content(company,name, content)
