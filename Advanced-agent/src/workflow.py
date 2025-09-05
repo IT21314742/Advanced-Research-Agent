@@ -119,4 +119,5 @@ class Workflow:
                     competitors=[]
                 )
                 
-                scrapped = self.firecrawl.scrape_company_pages
+                scrapped = self.firecrawl.scrape_company_pages(url)
+                
