@@ -112,5 +112,6 @@ class Workflow:
                 
                 
                 company = CompanyInfo(
+                    name=tool_name,
                     
                 )
