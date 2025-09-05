@@ -132,4 +132,4 @@ class Workflow:
                     company.api_available = analysis.language_support
                     company.intergration_capabilities = analysis.intergration_capabilities
                     
-                    
+                
