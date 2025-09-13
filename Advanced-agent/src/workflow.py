@@ -138,5 +138,4 @@ class Workflow:
         return {"companies": companies}
     
     def _analyze_step()                                                                     
-
             
