@@ -141,5 +141,5 @@ class Workflow:
         print("Generating Recommendations")
 
         company_data = ",".join([
-            company.json() for company in state
+            company.json() for company in state.companies
         ])                                                     
