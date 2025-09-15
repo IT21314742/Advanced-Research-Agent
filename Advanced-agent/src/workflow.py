@@ -144,4 +144,6 @@ class Workflow:
             company.json() for company in state.companies
         ])                                               
 
-        messages = []      
+        messages = [
+            SystemMessage
+        ]      
