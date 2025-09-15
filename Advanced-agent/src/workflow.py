@@ -146,5 +146,5 @@ class Workflow:
 
         messages = [
             SystemMessage(content=self.prompts.RECOMMENDATION_SYSTEM),
-            HumanMessage(content=self)
+            HumanMessage(content=self.prompts)
         ]      
