@@ -145,5 +145,5 @@ class Workflow:
         ])                                               
 
         messages = [
-            SystemMessage(content=)
+            SystemMessage(content=self.prompts)
         ]      
