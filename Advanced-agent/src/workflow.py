@@ -148,3 +148,4 @@ class Workflow:
             SystemMessage(content=self.prompts.RECOMMENDATION_SYSTEM),
             HumanMessage(content=self.prompts.recommendation_user(state.query, company_data))
         ]      
+        
