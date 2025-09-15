@@ -137,4 +137,4 @@ class Workflow:
                 
         return {"companies": companies}
     
-    def _analyze_step(self, state: ResearchState)                                                     
+    def _analyze_step(self, state: ResearchState) -> Dict[str, Any]:                                                     
