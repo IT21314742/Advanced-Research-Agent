@@ -145,5 +145,5 @@ class Workflow:
         ])                                               
 
         messages = [
-            SystemMessage
+            SystemMessage(content=)
         ]      
