@@ -143,4 +143,5 @@ class Workflow:
         company_data = ",".join([
             company.json() for company in state.companies
         ])                                               
+        
               
