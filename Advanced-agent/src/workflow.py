@@ -139,5 +139,5 @@ class Workflow:
     
     def _analyze_step(self, state: ResearchState) -> Dict[str, Any]:
         print("Generating Recommendations")
-        
-                                                             
+
+        company_data =                                                      
