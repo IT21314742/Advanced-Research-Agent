@@ -152,4 +152,4 @@ class Workflow:
         response = self.llm.invoke(messages)
         return {"analysis": response.content}
     
-    def run(self,)
+    def run(self,query)
