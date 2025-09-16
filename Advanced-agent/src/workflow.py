@@ -152,3 +152,4 @@ class Workflow:
         response = self.llm.invoke(messages)
         return {"analysis": response.content}
     
+    
