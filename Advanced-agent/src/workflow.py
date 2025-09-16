@@ -156,3 +156,4 @@ class Workflow:
         initial_state = ResearchState(query=query)
         final_state = self.workflow.invoke(initial_state)
         return ResearchState(**final_state)
+    
