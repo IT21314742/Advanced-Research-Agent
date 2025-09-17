@@ -2,4 +2,5 @@ class DeveloperToolPrompts:
     """Collection of prompts for analyzing developer tools and Technologies"""
 
     #Tool extraction prompts
-    TOOL_EXTRACTION_SYSTEM = """You are a tech researcher Extract specific tool, library, platform or services names from articles."""
+    TOOL_EXTRACTION_SYSTEM = """You are a tech researcher Extract specific tool, library, platform or services names from articles.
+                                 """
