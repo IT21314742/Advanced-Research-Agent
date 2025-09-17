@@ -1,1 +1,2 @@
-class DeveloperToolPrompts
+class DeveloperToolPrompts:
+    
