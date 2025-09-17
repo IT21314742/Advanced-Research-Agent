@@ -3,4 +3,4 @@ class DeveloperToolPrompts:
 
     #Tool extraction prompts
     TOOL_EXTRACTION_SYSTEM = """You are a tech researcher Extract specific tool, library, platform or services names from articles.
-                                 Focus on """
+                                 Focus on actual product"""
