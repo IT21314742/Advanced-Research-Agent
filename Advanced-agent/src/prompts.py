@@ -9,3 +9,4 @@ class DeveloperToolPrompts:
     def tool_extraction_user(query: str, content: str) -> str:
         return f"""Query: {query}
                  Article Content: {content}
+
