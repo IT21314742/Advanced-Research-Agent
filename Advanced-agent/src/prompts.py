@@ -6,4 +6,4 @@ class DeveloperToolPrompts:
                                  Focus on actual product/tools that developers can use, not general concepts or features."""
    
     @staticmethod
-    def tool_extraction_user
+    def tool_extraction_user(query:)
