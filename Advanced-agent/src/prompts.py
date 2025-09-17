@@ -7,4 +7,4 @@ class DeveloperToolPrompts:
    
     @staticmethod
     def tool_extraction_user(query: str, content: str) -> str:
-        
+        return
