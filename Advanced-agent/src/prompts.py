@@ -10,4 +10,4 @@ class DeveloperToolPrompts:
         return f"""Query: {query}
                  Article Content: {content}
 
-    
+        
