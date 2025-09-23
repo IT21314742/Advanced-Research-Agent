@@ -11,4 +11,4 @@ class DeveloperToolPrompts:
                  Article Content: {content}
 
 
-                                                        
+                                                            
