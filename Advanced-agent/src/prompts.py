@@ -21,3 +21,4 @@ class DeveloperToolPrompts:
 
                     Example format:
                     superbase
+                    PlanetScale
