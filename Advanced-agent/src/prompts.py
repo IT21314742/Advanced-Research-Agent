@@ -22,3 +22,4 @@ class DeveloperToolPrompts:
                     Example format:
                     superbase
                     PlanetScale
+                    Railway
