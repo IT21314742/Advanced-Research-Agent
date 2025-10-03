@@ -13,3 +13,4 @@ class DeveloperToolPrompts:
                     Extract a list of specific tool/service names mentioned in this content that are relevent to "{query}"
 
                     Rules:
+                    - Only
