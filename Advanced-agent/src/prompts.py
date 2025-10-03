@@ -11,4 +11,5 @@ class DeveloperToolPrompts:
                  Article Content: {content}
 
                     Extract a list of specific tool/service names mentioned in this content that are relevent to "{query}"
+
                     
