@@ -10,4 +10,4 @@ class DeveloperToolPrompts:
         return f"""Query: {query}
                  Article Content: {content}
 
-                    Extract a 
+                    Extract a list
