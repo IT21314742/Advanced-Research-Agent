@@ -32,4 +32,4 @@ class DeveloperToolPrompts:
                            focus on extracting information relevent to programmers and software developers.
                            Pay special attention to programming languages, frameworks, APIs, SDKs, and development workflows."""
     
-    
+    @staticmethod
