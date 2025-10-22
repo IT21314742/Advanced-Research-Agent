@@ -33,3 +33,4 @@ class DeveloperToolPrompts:
                            Pay special attention to programming languages, frameworks, APIs, SDKs, and development workflows."""
     
     @staticmethod
+    
