@@ -28,4 +28,4 @@ class DeveloperToolPrompts:
     
 
     # Company/Tool Analysis prompts
-    TOOL_ANALYSIS_SYSTEM = """You are analyzing developer tools and programming"""
+    TOOL_ANALYSIS_SYSTEM = """You are analyzing developer tools and programming technologies."""
