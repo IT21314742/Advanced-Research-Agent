@@ -27,4 +27,5 @@ class DeveloperToolPrompts:
                     Nhost"""
     
 
+    # Company/Tool Analysis prompts
     
