@@ -37,4 +37,4 @@ class DeveloperToolPrompts:
         return f"""Query: {query}
                 Article Content: {content}
                 
-                Extract a list of specific tool/service names mentioned in this content)
+                Extract a list of specific tool/service names mentioned in this content that are relevent to)
