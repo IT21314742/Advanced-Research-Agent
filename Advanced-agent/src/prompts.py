@@ -26,4 +26,5 @@ class DeveloperToolPrompts:
                     Appwrite
                     Nhost"""
     
+
     
