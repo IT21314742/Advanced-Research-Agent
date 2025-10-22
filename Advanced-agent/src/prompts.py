@@ -23,3 +23,4 @@ class DeveloperToolPrompts:
                     superbase
                     PlanetScale
                     Railway
+                    Appwrite
