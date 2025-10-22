@@ -28,4 +28,4 @@ class DeveloperToolPrompts:
     
 
     # Company/Tool Analysis prompts
-    TOOL_ANALYSIS_SYSTEM
+    TOOL_ANALYSIS_SYSTEM = 
