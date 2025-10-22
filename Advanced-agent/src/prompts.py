@@ -24,3 +24,4 @@ class DeveloperToolPrompts:
                     PlanetScale
                     Railway
                     Appwrite
+                    Nhost"""
