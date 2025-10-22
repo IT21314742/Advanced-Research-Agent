@@ -35,4 +35,4 @@ class DeveloperToolPrompts:
     @staticmethod
     def tool_analysis_user(query: str, content: str) -> str:
         return f"""Query: {query}
-                Article)
+                Article Content:)
