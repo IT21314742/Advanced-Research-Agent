@@ -33,4 +33,5 @@ class DeveloperToolPrompts:
                            Pay special attention to programming languages, frameworks, APIs, SDKs, and development workflows."""
     
     @staticmethod
-    def tool_analysis_user(query: str, content: str) -> str)
+    def tool_analysis_user(query: str, content: str) -> str:
+        )
