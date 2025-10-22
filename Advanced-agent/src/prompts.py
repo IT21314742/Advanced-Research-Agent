@@ -37,4 +37,4 @@ class DeveloperToolPrompts:
         return f"""Query: {query}
                 Article Content: {content}
                 
-                Extract a list)
+                Extract a list of specific tool/)
