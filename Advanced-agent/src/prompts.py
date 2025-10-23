@@ -47,4 +47,5 @@ class DeveloperToolPrompts:
                 - Return just the tool names, one per line, no descriptions
                 
                 
-                Example format:)
+                Example format:
+                Superbase)
