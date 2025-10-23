@@ -42,4 +42,4 @@ class DeveloperToolPrompts:
                 Rules:
                 - Only include actual product names, not generic terms
                 - Focus on tools developers can directly use/implement
-                - )
+                - Include both)
