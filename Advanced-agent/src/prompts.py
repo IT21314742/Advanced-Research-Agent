@@ -56,4 +56,4 @@ class DeveloperToolPrompts:
     
 
     #Company/Tool Analysis Prompts
-    TOOL_ANALYSIS_SYSTEM
+    TOOL_ANALYSIS_SYSTEM = 
