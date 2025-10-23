@@ -48,4 +48,5 @@ class DeveloperToolPrompts:
                 
                 
                 Example format:
-                Superbase)
+                Superbase
+                PlanetScale)
