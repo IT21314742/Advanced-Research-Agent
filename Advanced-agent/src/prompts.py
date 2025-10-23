@@ -43,4 +43,5 @@ class DeveloperToolPrompts:
                 - Only include actual product names, not generic terms
                 - Focus on tools developers can directly use/implement
                 - Include both open source and commercial options
-                - Limit to the 5 most relevent tools)
+                - Limit to the 5 most relevent tools
+                - )
