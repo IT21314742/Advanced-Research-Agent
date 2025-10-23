@@ -51,4 +51,5 @@ class DeveloperToolPrompts:
                 Superbase
                 PlanetScale
                 Railway
-                Appwrite)
+                Appwrite
+                Nhost"""
