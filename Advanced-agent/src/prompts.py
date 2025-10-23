@@ -50,4 +50,5 @@ class DeveloperToolPrompts:
                 Example format:
                 Superbase
                 PlanetScale
-                Railway)
+                Railway
+                Appwrite)
