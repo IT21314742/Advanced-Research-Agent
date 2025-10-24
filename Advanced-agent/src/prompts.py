@@ -57,4 +57,4 @@ class DeveloperToolPrompts:
 
     #Company/Tool Analysis Prompts
     TOOL_ANALYSIS_SYSTEM = """You are analyzing tools and programming technologies.
-                            focus on actual products"""
+                            focus on actual products/tools"""
