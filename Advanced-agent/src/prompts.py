@@ -60,3 +60,4 @@ class DeveloperToolPrompts:
                             focus on actual products/tools that developers can use, not general concepts or features."""
     
     @staticmethod
+    
