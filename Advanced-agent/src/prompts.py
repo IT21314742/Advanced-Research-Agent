@@ -66,3 +66,4 @@ class DeveloperToolPrompts:
 
                 Analyze this content from a developer's perspective and provide:
                 - pricing_model: One of "Free", "Freemium", "Paid", "Enterprise", or "Unknown"
+                
