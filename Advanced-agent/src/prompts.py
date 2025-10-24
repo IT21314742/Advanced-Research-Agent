@@ -65,4 +65,4 @@ class DeveloperToolPrompts:
                 Website Content: {content[:2500]}
 
                 Analyze this content from a developer's perspective and provide:
-                
+                - 
