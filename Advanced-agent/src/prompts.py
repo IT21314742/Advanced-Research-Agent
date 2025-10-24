@@ -64,3 +64,4 @@ class DeveloperToolPrompts:
         return f"""Company/Tool: {company_name}
                 Website Content: {content[:2500]}
 
+                
