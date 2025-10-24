@@ -66,4 +66,4 @@ class DeveloperToolPrompts:
 
                 Analyze this content from a developer's perspective and provide:
                 - pricing_model: One of "Free", "Freemium", "Paid", "Enterprise", or "Unknown"
-                - is_open_source: true if open source, false if proprietary, null
+                - is_open_source: true if open source, false if proprietary, null if 
