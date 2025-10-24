@@ -58,3 +58,5 @@ class DeveloperToolPrompts:
     #Company/Tool Analysis Prompts
     TOOL_ANALYSIS_SYSTEM = """You are analyzing tools and programming technologies.
                             focus on actual products/tools that developers can use, not general concepts or features."""
+    
+    @staticmethod
