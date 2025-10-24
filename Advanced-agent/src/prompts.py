@@ -61,3 +61,4 @@ class DeveloperToolPrompts:
     
     @staticmethod
     def tool_analysis_user(company_name: str, content: str) -> str:
+        
