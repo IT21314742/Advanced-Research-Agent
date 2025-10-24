@@ -63,3 +63,4 @@ class DeveloperToolPrompts:
     def tool_analysis_user(company_name: str, content: str) -> str:
         return f"""Company/Tool: {company_name}
                 Website Content: {content[:2500]}
+
