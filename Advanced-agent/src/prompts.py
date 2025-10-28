@@ -70,4 +70,4 @@ class DeveloperToolPrompts:
                 - tech_stack: List of programming languages, frameworks, databases
                 - description: Brief 1-sentence description focusing on what this tool does for developers.
                 - api_available: true if REST API, GraphQL, SDK, or programmatic access is mentioned
-                - language_support: List of programming languages explicitly 
+                - language_support: List of programming languages explicitly supported
