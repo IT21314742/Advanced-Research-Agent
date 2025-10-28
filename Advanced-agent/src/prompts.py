@@ -73,4 +73,4 @@ class DeveloperToolPrompts:
                 - language_support: List of programming languages explicitly supported (e.g., Python, Javascript,Go, etc.)
                 - intergration_capabilities: List of tools/platforms it integrates with (e.g.,Github, VS Code, Docker, AWS, etc.)
 
-                Focus on developer-relevent features
+                Focus on developer-relevent features like APIs
