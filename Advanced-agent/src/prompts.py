@@ -72,4 +72,5 @@ class DeveloperToolPrompts:
                 - api_available: true if REST API, GraphQL, SDK, or programmatic access is mentioned
                 - language_support: List of programming languages explicitly supported (e.g., Python, Javascript,Go, etc.)
                 - intergration_capabilities: List of tools/platforms it integrates with (e.g.,Github, VS Code, Docker, AWS, etc.)
+
                 
