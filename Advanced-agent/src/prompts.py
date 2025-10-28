@@ -74,3 +74,4 @@ class DeveloperToolPrompts:
                 - intergration_capabilities: List of tools/platforms it integrates with (e.g.,Github, VS Code, Docker, AWS, etc.)
 
                 Focus on developer-relevent features like APIs, SDKs, Language support, integrations, and development workflows.
+                
