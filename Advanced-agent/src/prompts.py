@@ -77,4 +77,4 @@ class DeveloperToolPrompts:
 
     
     #Recommendation prompts
-    RECOMMENDATIONS_SYSTEM = """You 
+    RECOMMENDATIONS_SYSTEM = """You  are 
