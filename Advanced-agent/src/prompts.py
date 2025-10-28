@@ -77,4 +77,4 @@ class DeveloperToolPrompts:
 
     
     #Recommendation prompts
-    RECOMMENDATIONS_SYSTEM = """You  are a senior software engineer providing
+    RECOMMENDATIONS_SYSTEM = """You  are a senior software engineer providing quick
