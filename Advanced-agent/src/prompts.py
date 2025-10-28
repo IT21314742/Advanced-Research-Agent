@@ -77,3 +77,4 @@ class DeveloperToolPrompts:
 
     
     #Recommendation prompts
+    
