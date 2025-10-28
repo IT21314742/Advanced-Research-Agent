@@ -68,4 +68,4 @@ class DeveloperToolPrompts:
                 - pricing_model: One of "Free", "Freemium", "Paid", "Enterprise", or "Unknown"
                 - is_open_source: true if open source, false if proprietary, null if unclear
                 - tech_stack: List of programming languages, frameworks, databases
-                - description: Brief 1-sentence description focusing on what this tool does for
+                - description: Brief 1-sentence description focusing on what this tool does for developers
