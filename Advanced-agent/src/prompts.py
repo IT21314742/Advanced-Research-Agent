@@ -77,4 +77,4 @@ class DeveloperToolPrompts:
 
     
     #Recommendation prompts
-    RECOMMENDATIONS_SYSTEM = 
+    RECOMMENDATIONS_SYSTEM = """
