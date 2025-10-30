@@ -81,3 +81,4 @@ class DeveloperToolPrompts:
                              keep responses brief and actionable - maximum 3-4 sentences total."""""
     
     @staticmethod
+    def recommendations
