@@ -85,4 +85,4 @@ class DeveloperToolPrompts:
         return f"""Developer Query: {query}
                 Tools/Technologies Analyzed: {company_data}
 
-                Provide a brief recommendation (3-4 sentences max)
+                Provide a brief recommendation (3-4 sentences max) covering:
