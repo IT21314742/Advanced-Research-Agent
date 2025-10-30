@@ -84,3 +84,4 @@ class DeveloperToolPrompts:
     def recommendations_user(query: str, company_data: str) -> str:
         return f"""Developer Query: {query}
                 Tools/Technologies Analyzed: {company_data}
+
