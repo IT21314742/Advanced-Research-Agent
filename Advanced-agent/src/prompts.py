@@ -80,4 +80,4 @@ class DeveloperToolPrompts:
     RECOMMENDATIONS_SYSTEM = """"""You  are a senior software engineer providing quick, concise tech recommendations.
                              keep responses brief and actionable - maximum 3-4 sentences total."""""
     
-    
+    @staticmethod
