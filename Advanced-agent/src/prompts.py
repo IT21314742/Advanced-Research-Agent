@@ -86,4 +86,4 @@ class DeveloperToolPrompts:
                 Tools/Technologies Analyzed: {company_data}
 
                 Provide a brief recommendation (3-4 sentences max) covering:
-                - which tool is best and 
+                - which tool is best and why
