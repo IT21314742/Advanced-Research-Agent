@@ -78,4 +78,4 @@ class DeveloperToolPrompts:
     
     #Recommendation prompts
     RECOMMENDATIONS_SYSTEM = """You  are a senior software engineer providing quick, concise tech recommendations.
-                             keep
+                             keep responses
