@@ -81,4 +81,4 @@ class DeveloperToolPrompts:
                              keep responses brief and actionable - maximum 3-4 sentences total."""""
     
     @staticmethod
-    def recommendations_user(query: str, company_data: str)
+    def recommendations_user(query: str, company_data: str) -> str:
