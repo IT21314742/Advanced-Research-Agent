@@ -83,3 +83,4 @@ class DeveloperToolPrompts:
     @staticmethod
     def recommendations_user(query: str, company_data: str) -> str:
         return f"""Developer Query: {query}
+                
