@@ -85,3 +85,4 @@ class DeveloperToolPrompts:
         return f"""Developer Query: {query}
                 Tools/Technologies Analyzed: {company_data}
 
+                Provide
