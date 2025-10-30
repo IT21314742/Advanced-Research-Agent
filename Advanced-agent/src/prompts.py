@@ -91,4 +91,4 @@ class DeveloperToolPrompts:
                 - main technical advantage
 
 
-                Be concise and direct - 
+                Be concise and direct - no long
