@@ -11,4 +11,4 @@ def main():
 
 
     while True:
-        query = input()
+        query = input("")
