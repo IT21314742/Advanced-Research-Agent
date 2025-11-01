@@ -11,4 +11,4 @@ def main():
 
 
     while True:
-        query = input("\n🔍 Developer Tools")
+        query = input("\n🔍 Developer Tools Query")
