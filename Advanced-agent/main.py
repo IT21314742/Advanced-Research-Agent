@@ -5,4 +5,4 @@ from src.workflow import Workflow
 load_dotenv()
 
 
-def main()
+def main():
