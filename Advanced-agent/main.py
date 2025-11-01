@@ -7,4 +7,4 @@ load_dotenv()
 
 def main():
     Workflow = Workflow()
-    print("Developer Tools Research")
+    print("Developer Tools Research Agent")
