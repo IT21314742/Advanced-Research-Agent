@@ -10,4 +10,4 @@ def main():
     print("Developer Tools Research Agent")
 
 
-    while True
+    while True:
