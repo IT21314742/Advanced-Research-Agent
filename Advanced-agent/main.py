@@ -12,4 +12,4 @@ def main():
 
     while True:
         query = input("\n🔍 Developer Tools Query: ").strip()
-        if query.lower() in 
+        if query.lower() in {}
