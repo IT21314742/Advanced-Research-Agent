@@ -18,3 +18,4 @@ def main():
         
         if query:
             result = Workflow.run(query)
+            
