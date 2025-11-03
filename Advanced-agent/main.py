@@ -16,4 +16,4 @@ def main():
             break
 
         
-        if query
+        if query:
