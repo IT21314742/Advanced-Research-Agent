@@ -21,4 +21,5 @@ def main():
             print(f"\n📊 Results for: {query}")
             print("=" * 60)
 
+
             
