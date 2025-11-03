@@ -17,4 +17,4 @@ def main():
 
         
         if query:
-            result = Workflow.run()
+            result = Workflow.run(query)
