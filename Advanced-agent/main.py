@@ -22,4 +22,4 @@ def main():
             print("=" * 60)
 
 
-            for i, company in enumerate(result.companies, 1)
+            for i, company in enumerate(result.companies, 1):
