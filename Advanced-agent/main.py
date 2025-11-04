@@ -26,4 +26,4 @@ def main():
                 print(f"\n{i}. 📅 {company.name}")
                 print(f" 🌐 Website: {company.website}")
                 print(f" 💰 Pricing: {company.pricing_model}")
-                print(f" 📧 open source")
+                print(f" 📧 open source:")
