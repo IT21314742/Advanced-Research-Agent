@@ -23,4 +23,4 @@ def main():
 
 
             for i, company in enumerate(result.companies, 1):
-                print(f"")
+                print(f"\n")
