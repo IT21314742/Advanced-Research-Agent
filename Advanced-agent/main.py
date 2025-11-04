@@ -30,3 +30,4 @@ def main():
 
 
                 if company.tech_stack:
+                    
