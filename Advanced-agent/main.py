@@ -28,4 +28,5 @@ def main():
                 print(f" 💰 Pricing: {company.pricing_model}")
                 print(f" 📧 open source: {company.is_open_source}")
 
+
                 
