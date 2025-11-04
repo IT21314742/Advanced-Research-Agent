@@ -30,4 +30,4 @@ def main():
 
 
                 if company.tech_stack:
-                    print(f" 🛠 Tech Stack: ")
+                    print(f" 🛠 Tech Stack: {}")
