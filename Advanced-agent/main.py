@@ -29,4 +29,4 @@ def main():
                 print(f" 📧 open source: {company.is_open_source}")
 
 
-                if 
+                if company
