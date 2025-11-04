@@ -22,4 +22,4 @@ def main():
             print("=" * 60)
 
 
-            for i 
+            for i
