@@ -24,4 +24,4 @@ def main():
 
             for i, company in enumerate(result.companies, 1):
                 print(f"\n{i}. 📅 {company.name}")
-                print
+                print(f)
