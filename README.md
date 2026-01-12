@@ -114,3 +114,13 @@ pip install -r requirements.txt
  FIRECRAWL_API_KEY=your_firecrawl_key
 ```
 
+## ▶️ Usage
+
+# Run the Simple Agent
+```
+python simple_agent.py
+```
+
+- Interactive research session
+- Direct tool usage via MCP
+- Ideal for experimentation
