@@ -125,3 +125,8 @@ python simple_agent.py
 - Direct tool usage via MCP
 - Ideal for experimentation
 
+
+### Run the Advanced Research Agent
+```
+python main.py
+```
