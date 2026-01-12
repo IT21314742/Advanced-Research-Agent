@@ -167,3 +167,20 @@ You will be prompted to enter a research query, for example:
 - Parallelizing research tasks
 
 
+## 🧭 Roadmap
+
+ - Persistent memory
+
+ - Citation and source tracking
+
+ - Parallel research execution
+
+ - Report generation
+
+ - Web or API interface
+
+
+## 🤝 Contributing
+
+* Contributions, issues, and ideas are welcome.
+This project is intended for developers interested in LLM agents, autonomous research systems, and MCP-based tooling. *
