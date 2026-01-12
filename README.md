@@ -142,3 +142,11 @@ You will be prompted to enter a research query, for example:
 - Pricing model
 - Open-source availability
 - Technology stack (when available)
+
+
+## 📊 Example Output
+1. ExampleTool
+   - Website: https://example.com
+   - Pricing: Freemium
+   - Open Source: No
+   - Tech Stack: Python, FastAPI, React
