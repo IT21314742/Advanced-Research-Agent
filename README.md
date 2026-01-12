@@ -78,3 +78,16 @@ A full system architecture diagram is provided separately.
 - **python-dotenv**
 
 ---
+
+
+## 📁 Project Structure (High Level)
+
+```text
+.
+├── simple_agent.py          # Prototype MCP research agent
+├── main.py                  # Advanced research agent entry point
+├── src/
+│   └── workflow.py          # Research workflow orchestration
+├── .env.example
+├── requirements.txt
+└── README.md
