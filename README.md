@@ -100,3 +100,8 @@ Clone the repository:
 - git clone https://github.com/IT21314742/Advanced-Research-Agent.git
 - cd Advanced-Research-Agent
 
+
+## Install dependencies:
+
+pip install -r requirements.txt
+
