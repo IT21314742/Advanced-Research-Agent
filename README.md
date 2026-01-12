@@ -63,6 +63,8 @@ At a high level, the system consists of:
 
 A full system architecture diagram is provided separately.
 
+![System Architecture](diagrams/system_architecture.png)
+
 ---
 
 
@@ -183,4 +185,5 @@ You will be prompted to enter a research query, for example:
 ## 🤝 Contributing
 
 * Contributions, issues, and ideas are welcome.
-This project is intended for developers interested in LLM agents, autonomous research systems, and MCP-based tooling. *
+This project is intended for developers interested in LLM agents, autonomous research systems, and MCP-based tooling. 
+
