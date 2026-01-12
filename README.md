@@ -133,3 +133,12 @@ python main.py
 You will be prompted to enter a research query, for example:
 
 *AI developer tools for code review*
+
+
+### The agent will return structured research results such as:
+
+- Tool or company name
+- Official website
+- Pricing model
+- Open-source availability
+- Technology stack (when available)
