@@ -110,6 +110,7 @@ pip install -r requirements.txt
 
 ## Create a .env file and add your API keys:
 ```
-- OPENAI_API_KEY=your_openai_key
-- FIRECRAWL_API_KEY=your_firecrawl_key
+ OPENAI_API_KEY=your_openai_key
+ FIRECRAWL_API_KEY=your_firecrawl_key
 ```
+
