@@ -130,3 +130,6 @@ python simple_agent.py
 ```
 python main.py
 ```
+You will be prompted to enter a research query, for example:
+
+*AI developer tools for code review*
