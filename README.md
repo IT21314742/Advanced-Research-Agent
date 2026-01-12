@@ -116,7 +116,7 @@ pip install -r requirements.txt
 
 ## ▶️ Usage
 
-# Run the Simple Agent
+### Run the Simple Agent
 ```
 python simple_agent.py
 ```
@@ -124,3 +124,4 @@ python simple_agent.py
 - Interactive research session
 - Direct tool usage via MCP
 - Ideal for experimentation
+
