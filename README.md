@@ -65,3 +65,16 @@ A full system architecture diagram is provided separately.
 
 ---
 
+
+## 🛠️ Technology Stack
+
+- **Python 3.10+**
+- **LangChain**
+- **LangGraph**
+- **Model Context Protocol (MCP)**
+- **Firecrawl API**
+- **OpenAI GPT-4o-mini**
+- **AsyncIO**
+- **python-dotenv**
+
+---
