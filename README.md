@@ -61,7 +61,7 @@ At a high level, the system consists of:
 - Firecrawl MCP server for web crawling and scraping
 - Result processing and structured output
 
-A full system architecture diagram is provided separately.
+### full system architecture diagram.
 
 ![System Architecture](diagrams/system_architecture.png)
 
@@ -70,9 +70,16 @@ A full system architecture diagram is provided separately.
 
 ![Runtime Sequence Diagram](diagrams/Runtime_Sequence_Diagram.png)
 
-This sequence diagram illustrates the runtime behavior of the Advanced Research Agent.
+Sequence diagram illustrates the runtime behavior of the Advanced Research Agent.
 After the user submits a query through the CLI, the workflow orchestrates the research task by delegating reasoning to the LLM agent. The agent dynamically interacts with Firecrawl through the MCP client to crawl and extract web data. The extracted information is then processed and returned as structured research results.
 
+
+### Workflow / State Diagram
+
+![System Architecture](diagrams/State_Diagram.png)
+
+Workflow diagram represents the internal states of the Advanced Research Agent workflow.
+The agent transitions from idle to active research states as it plans, executes, and synthesizes information. Error states allow the system to safely recover and return to an idle state, ensuring robustness and repeatable execution for multiple research queries.
 ---
 
 
@@ -194,5 +201,6 @@ You will be prompted to enter a research query, for example:
 
 * Contributions, issues, and ideas are welcome.
 This project is intended for developers interested in LLM agents, autonomous research systems, and MCP-based tooling. 
+
 
 
