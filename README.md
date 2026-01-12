@@ -16,3 +16,21 @@ The project demonstrates the evolution from a simple interactive agent into a st
 
 ---
 
+## 🧠 How the Project Works
+
+The system operates in two stages:
+
+### 1. Simple Research Agent
+
+The initial agent is a single ReAct-based LLM agent that:
+
+- Connects to Firecrawl via MCP
+- Dynamically loads available crawling and scraping tools
+- Uses step-by-step reasoning to decide which tools to call
+- Runs in an interactive command-line interface
+
+This stage focuses on experimentation, tool discovery, and validating MCP-based tool execution.
+
+---
+
+
