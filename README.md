@@ -50,4 +50,18 @@ This design separates reasoning, execution, and output processing, making the sy
 ---
 
 
+## 🏗️ System Architecture Overview
+
+At a high level, the system consists of:
+
+- A CLI-based user interface
+- A workflow orchestration layer
+- An LLM reasoning agent (LangGraph ReAct)
+- MCP client communication
+- Firecrawl MCP server for web crawling and scraping
+- Result processing and structured output
+
+A full system architecture diagram is provided separately.
+
+---
 
