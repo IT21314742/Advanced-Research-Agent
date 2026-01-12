@@ -150,3 +150,18 @@ You will be prompted to enter a research query, for example:
    - Pricing: Freemium
    - Open Source: No
    - Tech Stack: Python, FastAPI, React
+
+
+## 🧱 Extending the System
+
+####The architecture is designed for extension. Possible improvements include:
+
+- Adding additional workflow stages
+
+- Supporting new research domains
+
+- Exporting results to JSON, CSV, or Markdown
+
+- Adding memory or caching layers
+
+- Parallelizing research tasks
