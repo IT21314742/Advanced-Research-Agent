@@ -65,6 +65,14 @@ A full system architecture diagram is provided separately.
 
 ![System Architecture](diagrams/system_architecture.png)
 
+
+### Runtime Sequence Explanation
+
+![Runtime Sequence Diagram](diagrams/Runtime_Sequence_Diagram.png)
+
+This sequence diagram illustrates the runtime behavior of the Advanced Research Agent.
+After the user submits a query through the CLI, the workflow orchestrates the research task by delegating reasoning to the LLM agent. The agent dynamically interacts with Firecrawl through the MCP client to crawl and extract web data. The extracted information is then processed and returned as structured research results.
+
 ---
 
 
@@ -186,4 +194,5 @@ You will be prompted to enter a research query, for example:
 
 * Contributions, issues, and ideas are welcome.
 This project is intended for developers interested in LLM agents, autonomous research systems, and MCP-based tooling. 
+
 
