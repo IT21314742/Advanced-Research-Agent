@@ -154,7 +154,7 @@ You will be prompted to enter a research query, for example:
 
 ## 🧱 Extending the System
 
-####The architecture is designed for extension. Possible improvements include:
+###The architecture is designed for extension. Possible improvements include:
 
 - Adding additional workflow stages
 
@@ -165,3 +165,4 @@ You will be prompted to enter a research query, for example:
 - Adding memory or caching layers
 
 - Parallelizing research tasks
+
