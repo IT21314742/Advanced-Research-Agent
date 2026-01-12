@@ -33,4 +33,21 @@ This stage focuses on experimentation, tool discovery, and validating MCP-based 
 
 ---
 
+### 2. Advanced Research Agent
+
+The advanced agent introduces a **Workflow layer** that orchestrates research execution.
+
+Key responsibilities of the workflow include:
+
+- Accepting user research queries
+- Guiding the LLM through structured research steps
+- Executing Firecrawl-powered crawling and extraction
+- Normalizing raw data into structured entities
+- Returning organized research results (e.g., companies and tools)
+
+This design separates reasoning, execution, and output processing, making the system easier to extend and maintain.
+
+---
+
+
 
