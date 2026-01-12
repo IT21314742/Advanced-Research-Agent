@@ -97,5 +97,6 @@ A full system architecture diagram is provided separately.
 
 Clone the repository:
 
-git clone https://github.com/IT21314742/Advanced-Research-Agent.git
-cd Advanced-Research-Agent
+- git clone https://github.com/IT21314742/Advanced-Research-Agent.git
+- cd Advanced-Research-Agent
+
